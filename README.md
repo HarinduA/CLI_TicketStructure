@@ -30,6 +30,6 @@ This Java-based multi-threaded application simulates a ticket management system.
 
 or
 
-2. **In intellij run the Main.java file**
+2. **In intellij run the Main.java file** or you used file as a Main 
 
 
